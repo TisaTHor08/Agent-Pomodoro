@@ -4,6 +4,10 @@
 Développer une application minimaliste et interactive servant d’assistant personnel pour organiser, suivre et améliorer les sessions de révision selon la méthode Pomodoro. L'agent vise à augmenter la productivité, à réduire les distractions et à générer des rapports statistiques détaillés.
 
 ---
+## Visuels
+
+Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
+---
 
 ## 🖥️ Interface Générale
 
