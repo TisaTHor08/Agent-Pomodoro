@@ -28,9 +28,13 @@ Développer une application minimaliste et interactive servant d’assistant per
 - Export des données vers :
   - **Agenda personnel**
   - **Graphiques statistiques**
+  - **Home Assistant** (possibilité de synchronisation avec des périphériques connectés comme la lumière)
 
 ### Méthode Pomodoro
 - Possibilité de **configurer plusieurs modes Pomodoro** (ex: 25/5, 30/10, etc.)
+- Prise en charge du **cycle Pomodoro complet** :
+  - 3 sessions de travail + pause courte
+  - 1 session de travail + pause longue
 - Démarrage d’un Pomodoro lance une **piste audio** personnalisée
   - Gestion des pistes :
     - Ajouter / supprimer / modifier
@@ -38,6 +42,15 @@ Développer une application minimaliste et interactive servant d’assistant per
   - Statistiques sur les pistes :
     - Durée moyenne d’écoute
     - Fréquences d’utilisation selon l’heure et le jour
+
+---
+
+## 📆 Planification et Organisation
+
+### Agenda intégré
+- Visualisation des **sessions de travail** et des **pauses**
+- Possibilité d’**ajouter une activité planifiée** à chaque session de travail
+- Construction d’un **planning personnalisé** selon les objectifs
 
 ---
 
@@ -96,6 +109,11 @@ Développer une application minimaliste et interactive servant d’assistant per
     - Statistiques de révision
     - Pages Notion connectées
 
+### Système de plugins communautaires
+- Possibilité pour la communauté d’**ajouter des plugins**
+  - Architecture prévue pour **étendre les fonctionnalités**
+  - Gestion facile des extensions via l'interface
+
 ---
 
 ## 🔒 Confidentialité
@@ -110,19 +128,25 @@ Développer une application minimaliste et interactive servant d’assistant per
 |----------------------|------------------------------------------------------------|
 | Interface graphique   | Affichage compact et ergonomique, thème sombre             |
 | Suivi de session      | Temps, applications, sites, pistes audio                   |
-| Méthode Pomodoro      | Minuterie, musique, pauses intelligentes                   |
+| Méthode Pomodoro      | Minuterie, rythme complet, musique, pauses intelligentes   |
 | Blocage de distractions | Programmes et sites bannis pendant la session            |
+| Planification         | Agenda des tâches, activités par session, planning         |
 | Statistiques          | Graphiques détaillés, corrélations, filtres avancés        |
+| Intégration Home Assistant | Envoi d’infos en temps réel (ex: lumières connectées) |
 | Intégration Notion    | Suivi des pages éditées en temps réel                      |
-| Assistant (chatbot)   | Réponses personnalisées selon les données de l'utilisateur |
+| Assistant (chatbot)   | Réponses personnalisées selon les données                  |
+| Plugins               | Système ouvert aux contributions de la communauté          |
 
 ---
 
 ## 🔄 Évolution prévue
+
 - Synchronisation multi-appareils
 - Export PDF/CSV des rapports
 - Gamification de la progression
 - Rappels intelligents basés sur les performances passées
+- Support vocal (contrôle par commande vocale locale)
+- Intégration avec d'autres outils de productivité
 
 ---
 
