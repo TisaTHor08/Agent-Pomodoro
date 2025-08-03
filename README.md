@@ -178,6 +178,7 @@ Vous souhaitez améliorer cet agent personnel de révision ? Vous êtes les bien
 ### 👥 Liste des contributeurs
 
 La liste des contributeurs est générée automatiquement à partir des commits du dépôt principal. Merci à toutes les personnes qui participent à rendre ce projet plus utile, solide et inspirant.
+
 [![Contributeurs](https://contrib.rocks/image?repo=TisaTHor08/Agent-Pomodoro)](https://github.com/TisaTHor08/Agent-Pomodoro/graphs/contributors)
 
 
