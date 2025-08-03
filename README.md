@@ -28,8 +28,9 @@ Développer une application minimaliste et interactive servant d’assistant per
 - Export des données vers :
   - **Agenda personnel**
   - **Graphiques statistiques**
-  - **Home Assistant** (possibilité de synchronisation avec des périphériques connectés comme la lumière)
-    - Possibilite de recevoir des information via home assistant (passer a la piste suivante, valider le debut d'une pose, la validation d'un chapitre...)
+  - **Home Assistant** :
+    - Envoi d'informations (état de session, début/fin de pause, chapitre terminé…)
+    - Réception de commandes (changer de piste audio, valider une étape…)
 
 ### Méthode Pomodoro
 - Possibilité de **configurer plusieurs modes Pomodoro** (ex: 25/5, 30/10, etc.)
@@ -110,10 +111,38 @@ Développer une application minimaliste et interactive servant d’assistant per
     - Statistiques de révision
     - Pages Notion connectées
 
-### Système de plugins communautaires
-- Possibilité pour la communauté d’**ajouter des plugins**
-  - Architecture prévue pour **étendre les fonctionnalités**
-  - Gestion facile des extensions via l'interface
+---
+
+## 🧩 Système de Plugins Communautaires
+
+- Architecture prévue pour **étendre l’application** avec des modules externes
+- Les plugins sont classés en **trois catégories distinctes** :
+
+### 1. 🎨 Plugins de **Style**
+- Modifient **l'apparence de l'application**
+- Un **style par défaut** est fourni par le développeur
+- Possibilité pour la communauté de créer des **thèmes visuels complets**
+- Gestion intuitive via une interface dédiée
+
+### 2. 🛠️ Plugins **Modifier**
+- Permettent de **modifier des comportements natifs** de l’application
+- Exemples : 
+  - Personnalisation des appels à Home Assistant
+  - Redéfinition des connexions avec Notion
+  - Ajustements de règles Pomodoro ou de format de statistiques
+
+### 3. ✨ Plugins **Features**
+- Ajoutent des **fonctionnalités entièrement nouvelles**
+- Peuvent inclure :
+  - Un ou plusieurs modules fonctionnels
+  - Nouveaux onglets ou ajout dans des onglets existants
+- Chaque Feature utilise obligatoirement le **système de style natif** pour rester compatible avec les plugins de style
+
+### 📦 Packs personnalisés
+- Système de **packs partagés** :
+  - Peuvent contenir un ensemble de plugins : Styles, Modifiers, Features
+  - Inclus les **fichiers de configuration utilisateur**
+  - Import/export simple pour **partager un setup complet**
 
 ---
 
@@ -133,21 +162,10 @@ Développer une application minimaliste et interactive servant d’assistant per
 | Blocage de distractions | Programmes et sites bannis pendant la session            |
 | Planification         | Agenda des tâches, activités par session, planning         |
 | Statistiques          | Graphiques détaillés, corrélations, filtres avancés        |
-| Intégration Home Assistant | Envoi d’infos en temps réel (ex: lumières connectées) |
+| Intégration Home Assistant | Échange bidirectionnel d’infos domotiques            |
 | Intégration Notion    | Suivi des pages éditées en temps réel                      |
 | Assistant (chatbot)   | Réponses personnalisées selon les données                  |
-| Plugins               | Système ouvert aux contributions de la communauté          |
-
----
-
-## 🔄 Évolution prévue
-
-- Synchronisation multi-appareils
-- Export PDF/CSV des rapports
-- Gamification de la progression
-- Rappels intelligents basés sur les performances passées
-- Support vocal (contrôle par commande vocale locale)
-- Intégration avec d'autres outils de productivité
+| Plugins               | Styles, Modificateurs, Nouvelles fonctionnalités, Packs    |
 
 ---
 
