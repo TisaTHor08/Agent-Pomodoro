@@ -29,6 +29,7 @@ Développer une application minimaliste et interactive servant d’assistant per
   - **Agenda personnel**
   - **Graphiques statistiques**
   - **Home Assistant** (possibilité de synchronisation avec des périphériques connectés comme la lumière)
+    - Possibilite de recevoir des information via home assistant (passer a la piste suivante, valider le debut d'une pose, la validation d'un chapitre...)
 
 ### Méthode Pomodoro
 - Possibilité de **configurer plusieurs modes Pomodoro** (ex: 25/5, 30/10, etc.)
