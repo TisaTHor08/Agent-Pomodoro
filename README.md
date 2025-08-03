@@ -152,6 +152,38 @@ Développer une application minimaliste et interactive servant d’assistant per
 
 ---
 
+## 🤝 Contributions
+
+### 🔔 Appel à contributions
+Vous souhaitez améliorer cet agent personnel de révision ? Vous êtes les bienvenus ! Toute contribution sérieuse et respectueuse des lignes directrices ci-dessous sera étudiée avec attention.
+
+### 📌 Limites des contributions
+
+- Les contributions **doivent s’appuyer sur le système natif** de l’application.
+- Elles peuvent :
+  - Améliorer une **fonctionnalité existante**.
+  - Ajouter une **fonctionnalité explicitement listée dans le présent README**.
+- **Les contributions ne doivent pas introduire de plugins** :  
+  - Les plugins seront développés dans un **projet séparé** avec une structure propre (non encore mise en place à ce jour).
+  - Toute fonctionnalité additionnelle non prévue ici devrait plutôt être proposée comme **plugin futur**.
+
+### 📝 Requis pour toute contribution
+
+- Fournir une **description claire et détaillée** :
+  - Liste des ajouts et des modifications.
+  - Description du **fonctionnement du code ajouté ou modifié**.
+- Respecter la structure de l'application et le système de style natif.
+- Garder une logique minimaliste et modulaire.
+
+### 👥 Liste des contributeurs
+
+La liste des contributeurs est générée automatiquement à partir des commits du dépôt principal. Merci à toutes les personnes qui participent à rendre ce projet plus utile, solide et inspirant.
+[![Contributeurs](https://contrib.rocks/image?repo=TON_NOM_UTILISATEUR/NOM_DU_DEPOT)](https://github.com/TON_NOM_UTILISATEUR/NOM_DU_DEPOT/graphs/contributors)
+
+
+---
+
+
 ## 🗂️ Résumé des Modules Clés
 
 | Module                | Fonctionnalité principale                                 |
