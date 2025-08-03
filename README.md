@@ -152,6 +152,30 @@ Développer une application minimaliste et interactive servant d’assistant per
 
 ---
 
+## Technologies envisagées
+
+| Technologie                            | Badge                                                                                                              | Utilité principale                                     |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
+| **.NET 8 (C#)**                        | ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet)                                              | Base de l’application – logique, structure, timers     |
+| **WPF**                                | ![WPF](https://img.shields.io/badge/WPF-Windows%20Desktop-lightblue?logo=windows)                                  | Interface utilisateur compacte, moderne, responsive    |
+| **SQLite**                             | ![SQLite](https://img.shields.io/badge/SQLite-Local%20Database-003B57?logo=sqlite)                                 | Stockage local des stats, historiques, paramètres      |
+| **Dapper**                             | ![Dapper](https://img.shields.io/badge/Dapper-Lightweight%20ORM-orange)                                            | Accès à la base SQLite simple et rapide                |
+| **LiveCharts2**                        | ![LiveCharts](https://img.shields.io/badge/LiveCharts2-Graphiques%20dynamiques-ff69b4)                             | Affichage des statistiques interactives                |
+| **NAudio**                             | ![NAudio](https://img.shields.io/badge/NAudio-Gestion%20audio-darkgreen)                                           | Lecture de pistes audio au début/fin de sessions       |
+| **MQTTnet**                            | ![MQTTnet](https://img.shields.io/badge/MQTTnet-Home%20Assistant%20Bridge-brightgreen?logo=homeassistant)          | Communication bidirectionnelle avec Home Assistant     |
+| **Newtonsoft.Json**                    | ![JSON.NET](https://img.shields.io/badge/JSON.NET-Parsing%20JSON-ffdd00?logo=json)                                 | Gestion des données JSON (API externes, plugins)       |
+| **Flurl.Http**                         | ![Flurl](https://img.shields.io/badge/Flurl-HTTP%20Client-lightgray?logo=rest)                                     | Appels aux API (Notion, Ollama, plugins)               |
+| **WebView2**                           | ![WebView2](https://img.shields.io/badge/WebView2-Affichage%20de%20contenu%20web-0078d7?logo=microsoftedge)        | Affichage intégré de contenus HTML (Notion, stats web) |
+| **PowerShell**                         | ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?logo=powershell)                             | Scripts système (blocage app, démarrage auto)          |
+| **CefSharp (optionnel)**               | ![CefSharp](https://img.shields.io/badge/CefSharp-Extension%20navigateur-red)                                      | Blocage ou suivi web si WebView2 insuffisant           |
+| **MVVM Toolkit**                       | ![MVVM Toolkit](https://img.shields.io/badge/MVVM%20Toolkit-Pattern%20d'architecture-informational)                | Structure claire pour l’interface WPF                  |
+| **SharpHook**                          | ![SharpHook](https://img.shields.io/badge/SharpHook-Hotkeys%20globales-blueviolet)                                 | Gestion des raccourcis clavier système                 |
+| **MSIX / Inno Setup**                  | ![Installer](https://img.shields.io/badge/Setup-MSIX%20ou%20Inno%20Setup-blue?logo=windows)                        | Génération d’un installateur pour Windows              |
+| **Ollama API**                         | ![Ollama](https://img.shields.io/badge/Ollama-Assistant%20IA%20local-black?logo=openai)                            | Assistant conversationnel local, sans cloud            |
+| **Extension navigateur (Manifest V3)** | ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-Blocage%20de%20sites-yellow?logo=googlechrome) | Blocage de sites distrayants pendant les sessions      |
+| **Plugin Loader (Reflection)**         | ![Plugin System](https://img.shields.io/badge/Plugins-System%20modulaire-purple)                                   | Chargement dynamique de modules externes via DLL       |
+---
+
 ## 🤝 Contributions
 
 ### 🔔 Appel à contributions
