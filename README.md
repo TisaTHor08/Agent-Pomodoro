@@ -9,6 +9,9 @@ Développer une application minimaliste et interactive servant d’assistant per
 Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
+>⚙️ Remarque importante : chacune de ces fonctionnalités est un plugin officiel inclus dans la version de base.
+>Elles peuvent être activées/désactivées individuellement ou remplacées par des versions personnalisées.
+
 ## 🖥️ Interface Générale
 
 - **Démarrage automatique au lancement du système**
@@ -23,6 +26,7 @@ Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
 ## ⏱️ Fonctionnalités de Suivi
+(Plugin intégré par défaut)
 
 ### Suivi du temps et de l'activité
 - Traque du **temps total de révision**
@@ -52,6 +56,7 @@ Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
 ## 📆 Planification et Organisation
+(Plugin intégré par défaut)
 
 ### Agenda intégré
 - Visualisation des **sessions de travail** et des **pauses**
@@ -61,6 +66,7 @@ Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
 ## 🚫 Blocage de Distractions
+(Plugin intégré par défaut)
 
 - **Liste de programmes bannis** durant la révision
   - Édition via une interface intuitive
@@ -73,6 +79,7 @@ Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
 ## ✅ Marquage de Progression
+(Plugin intégré par défaut)
 
 - **Bouton “Leçon / Chapitre terminé”**
   - Permet d’enregistrer la progression
@@ -81,6 +88,7 @@ Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
 ## 📊 Statistiques et Visualisation
+(Plugin intégré par défaut)
 
 - **Page dédiée aux statistiques**
   - Graphiques dynamiques et interactifs
@@ -94,6 +102,7 @@ Lien vers la dernier video de mise a jour: https://youtu.be/r4YPtQZm2AY
 ---
 
 ## 🔧 Fonctionnalités Secondaires
+(Plugin intégré par défaut)
 
 ### Intégration avec Notion
 - Connexion à un compte Notion personnel
