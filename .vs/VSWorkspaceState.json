@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PomodoroAgent",
+    "\\PomodoroAgent\\AgentPomodoro"
   ],
+  "SelectedNode": "\\PomodoroAgent\\AgentPomodoro\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

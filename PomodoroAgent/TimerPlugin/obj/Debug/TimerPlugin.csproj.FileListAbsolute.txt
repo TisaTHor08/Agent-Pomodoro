@@ -1,0 +1,2 @@
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlugin.csproj.AssemblyReference.cache
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlugin.csproj.CoreCompileInputs.cache
