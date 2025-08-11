@@ -12,6 +12,8 @@ namespace AgentPomodoro
 {
     public partial class MainWindow : Window, INotifyPropertyChanged
     {
+        private string pluginsFolder;
+
         private bool isReduced = false;
         public bool IsReduced
         {
@@ -36,6 +38,10 @@ namespace AgentPomodoro
             Top = 0;
             IsReduced = false;
             Topmost = true;
+
+            pluginsFolder = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Plugins");
+            if (!Directory.Exists(pluginsFolder))
+                Directory.CreateDirectory(pluginsFolder);
         }
 
         private void Window_MouseEnter(object sender, MouseEventArgs e)
@@ -99,4 +105,36 @@ namespace AgentPomodoro
                 MessageBox.Show($"Erreur lors du chargement : {ex.Message}");
             }
         }
+
+        private void BtnImportPlugin_Click(object sender, RoutedEventArgs e)
+        {
+            // Sélecteur de fichier
+            OpenFileDialog ofd = new OpenFileDialog
+            {
+                Filter = "Fichiers DLL (*.dll)|*.dll",
+                Title = "Sélectionnez un plugin"
+            };
+
+            if (ofd.ShowDialog() == true)
+            {
+                try
+                {
+                    // Copie du plugin dans le dossier Plugins
+                    string destPath = Path.Combine(pluginsFolder, Path.GetFileName(ofd.FileName));
+                    File.Copy(ofd.FileName, destPath, true);
+
+                    MessageBox.Show("Plugin importé avec succès !", "Succès", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                    // Charger le plugin immédiatement
+                    LoadPlugin(destPath);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Erreur lors de l'import du plugin : " + ex.Message,
+                                    "Erreur", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+        }
+
+    }
 }

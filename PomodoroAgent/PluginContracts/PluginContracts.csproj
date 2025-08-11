@@ -47,11 +47,5 @@
     <Compile Include="IPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AgentPomodoro\AgentPomodoro.csproj">
-      <Project>{aacb1ba5-4be8-4045-8302-75e129a9d2f8}</Project>
-      <Name>AgentPomodoro</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

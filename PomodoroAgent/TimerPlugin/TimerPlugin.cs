@@ -1,6 +1,5 @@
 ﻿using PluginContracts;
 using System;
-using System.IO;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
@@ -47,7 +46,7 @@ namespace TimerPlugin
                 Height = 150
             };
 
-            Path arcPath = new Path
+            var arcPath = new System.Windows.Shapes.Path
             {
                 Stroke = Brushes.Blue,
                 StrokeThickness = 5
@@ -138,7 +137,7 @@ namespace TimerPlugin
             };
         }
 
-        private void DrawArc(Path path, double progress)
+        private void DrawArc(System.Windows.Shapes.Path path, double progress)
         {
             double angle = 360 * progress;
             double radius = 70;

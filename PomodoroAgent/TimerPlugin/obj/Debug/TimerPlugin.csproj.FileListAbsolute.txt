@@ -1,2 +1,9 @@
 C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlugin.csproj.AssemblyReference.cache
 C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\bin\Debug\TimerPlugin.dll
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\bin\Debug\TimerPlugin.pdb
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\bin\Debug\PluginContracts.dll
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\bin\Debug\PluginContracts.pdb
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlu.679E1C2D.Up2Date
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlugin.dll
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\TimerPlugin\obj\Debug\TimerPlugin.pdb

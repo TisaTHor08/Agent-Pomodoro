@@ -32,6 +32,12 @@
                 <Button Content="🏠 Home" Width="80" Margin="2"/>
                 <Button Content="📊 Stats" Width="80" Margin="2"/>
                 <Button Content="⚙ Settings" Width="80" Margin="2"/>
+                <Button x:Name="BtnImportPlugin"
+        Content="Importer un plugin"
+        Width="80"
+        Margin="2"
+        Click="BtnImportPlugin_Click"/>
+
             </StackPanel>
             <StackPanel x:Name="MainView" Orientation="Vertical" Background="LightGray"/>
 

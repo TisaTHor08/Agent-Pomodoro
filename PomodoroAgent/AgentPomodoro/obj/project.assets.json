@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "PluginContracts/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/PluginContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PluginContracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PluginContracts/1.0.0": {
+      "type": "project",
+      "path": "../PluginContracts/PluginContracts.csproj",
+      "msbuildProject": "../PluginContracts/PluginContracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "PluginContracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mouss\\.nuget\\packages\\": {},
@@ -39,7 +57,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\PluginContracts\\PluginContracts.csproj": {
+              "projectPath": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\PluginContracts\\PluginContracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

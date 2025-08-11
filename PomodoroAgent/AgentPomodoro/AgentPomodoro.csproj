@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PluginContracts\PluginContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Plugin\" />
+  </ItemGroup>
+
 </Project>

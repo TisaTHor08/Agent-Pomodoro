@@ -1,0 +1,6 @@
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\PluginContracts\bin\Debug\PluginContracts.dll
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\PluginContracts\bin\Debug\PluginContracts.pdb
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\PluginContracts\obj\Debug\PluginContracts.csproj.AssemblyReference.cache
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\PluginContracts\obj\Debug\PluginContracts.csproj.CoreCompileInputs.cache
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\PluginContracts\obj\Debug\PluginContracts.dll
+C:\Users\mouss\source\repos\Agent-Pomodoro\PomodoroAgent\PluginContracts\obj\Debug\PluginContracts.pdb
