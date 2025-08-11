@@ -1,4 +1,9 @@
 # 📚 Agent Personnel de Révision - Cahier des Charges
+![Dernier commit](https://img.shields.io/github/last-commit/TisaTHor08/Agent-Pomodoro)
+![Langage principal](https://img.shields.io/github/languages/top/TisaTHor08/Agent-Pomodoro)
+![Licence](https://img.shields.io/github/license/TisaTHor08/Agent-Pomodoro)
+![Étoiles](https://img.shields.io/github/stars/TisaTHor08/Agent-Pomodoro?style=social)
+![Forks](https://img.shields.io/github/forks/TisaTHor08/Agent-Pomodoro?style=social)
 
 ## 🎯 Objectif
 Développer une application minimaliste et interactive servant d’assistant personnel pour organiser, suivre et améliorer les sessions de révision selon la méthode Pomodoro. L'agent vise à augmenter la productivité, à réduire les distractions et à générer des rapports statistiques détaillés.
