@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\agentpomodoro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|solutionrelative:agentpomodoro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4DA27C2-CFBB-4E79-A3E4-6FB24C68B969}|TimerPlugin\\TimerPlugin.csproj|C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\timerplugin\\timerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DA27C2-CFBB-4E79-A3E4-6FB24C68B969}|TimerPlugin\\TimerPlugin.csproj|solutionrelative:timerplugin\\timerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\agentpomodoro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|solutionrelative:agentpomodoro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\agentpomodoro\\converter\\booltoconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|solutionrelative:agentpomodoro\\converter\\booltoconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\agentpomodoro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|solutionrelative:agentpomodoro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\agentpomodoro\\agentpomodoro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|solutionrelative:agentpomodoro\\agentpomodoro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4DA27C2-CFBB-4E79-A3E4-6FB24C68B969}|TimerPlugin\\TimerPlugin.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\timerplugin\\timerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4DA27C2-CFBB-4E79-A3E4-6FB24C68B969}|TimerPlugin\\TimerPlugin.csproj|solutionrelative:timerplugin\\timerplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65D74B98-4B89-4256-8BF5-BFCFE0D28468}|PluginContracts\\PluginContracts.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\plugincontracts\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65D74B98-4B89-4256-8BF5-BFCFE0D28468}|PluginContracts\\PluginContracts.csproj|C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\plugincontracts\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65D74B98-4B89-4256-8BF5-BFCFE0D28468}|PluginContracts\\PluginContracts.csproj|solutionrelative:plugincontracts\\iplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|c:\\users\\mouss\\source\\repos\\agent-pomodoro\\pomodoroagent\\agentpomodoro\\converter\\booltoconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AACB1BA5-4BE8-4045-8302-75E129A9D2F8}|AgentPomodoro\\AgentPomodoro.csproj|solutionrelative:agentpomodoro\\converter\\booltoconverters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgentPomodoro",
+              "DocumentIndex": 4,
+              "Title": "AgentPomodoro.csproj",
               "DocumentMoniker": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\AgentPomodoro\\AgentPomodoro.csproj",
               "RelativeDocumentMoniker": "AgentPomodoro\\AgentPomodoro.csproj",
               "ToolTip": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\AgentPomodoro\\AgentPomodoro.csproj",
               "RelativeToolTip": "AgentPomodoro\\AgentPomodoro.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-11T14:16:49.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T14:16:49.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TimerPlugin.cs",
               "DocumentMoniker": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\TimerPlugin\\TimerPlugin.cs",
               "RelativeDocumentMoniker": "TimerPlugin\\TimerPlugin.cs",
               "ToolTip": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\TimerPlugin\\TimerPlugin.cs",
               "RelativeToolTip": "TimerPlugin\\TimerPlugin.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAowK0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T20:43:37.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IPlugin.cs",
               "DocumentMoniker": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\PluginContracts\\IPlugin.cs",
               "RelativeDocumentMoniker": "PluginContracts\\IPlugin.cs",
@@ -80,20 +79,20 @@
               "RelativeToolTip": "PluginContracts\\IPlugin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T20:39:29.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T20:39:29.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "BoolToConverters.cs",
               "DocumentMoniker": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\AgentPomodoro\\Converter\\BoolToConverters.cs",
               "RelativeDocumentMoniker": "AgentPomodoro\\Converter\\BoolToConverters.cs",
               "ToolTip": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\AgentPomodoro\\Converter\\BoolToConverters.cs",
               "RelativeToolTip": "AgentPomodoro\\Converter\\BoolToConverters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T20:27:09.709Z"
+              "WhenOpened": "2025-08-10T20:27:09.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\AgentPomodoro\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgentPomodoro\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\mouss\\source\\repos\\Agent-Pomodoro\\PomodoroAgent\\AgentPomodoro\\MainWindow.xaml.cs",
               "RelativeToolTip": "AgentPomodoro\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T20:25:32.69Z",
               "EditorCaption": ""
